@@ -4,13 +4,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Science-Student-success?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Web-Developer-success?style=for-the-badge" />
 </p>
 
 - 🔐 Passionate about **Cybersecurity, Ethical Hacking and Network Security**
 
-- 🌱 Currently learning **Linux, Network Security and Secure Web Development**
+- 🌐 Passionate about **Web Development, Modern Web Technologies and User Experience**
 
-- 💻 Interested in **Software Development, System Administration and Cyber Defense**
+- 🎨 Enjoy building **Responsive and Interactive Front-End Applications**
+
+- 🌱 Currently learning **Linux, Network Security, React and Secure Web Development**
+
+- 💻 Interested in **Software Development, Full-Stack Web Development, System Administration and Cyber Defense**
 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
