@@ -17,7 +17,7 @@
 
 - 💻 Interested in **Software Development, Full-Stack Web Development, System Administration and Cyber Defense**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at ...
 
 - 📫 How to reach me **elbarbouchifatimaezzahra4@gmail.com**
 
